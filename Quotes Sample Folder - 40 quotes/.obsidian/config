@@ -1,0 +1,39 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Custom CSS": true,
+    "Tag pane": true,
+    "Page preview": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Tags",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "9ec826c01670b226",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "08fcc625dc7e9739",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ]
+  }
+}
